@@ -1,3 +1,1 @@
-<div class="mockup-code">
-  <pre data-prefix="$"><code>npm i daisyui</code></pre>
-</div>
+<h1>Hello from Svelte!</h1>
